@@ -33,12 +33,6 @@ Accurate loan default prediction models can help financial institutions and micr
 
 ---
 
-Example (manual):
-1. Download the file from the link above (you may need to sign in to Google).
-2. Move or copy the downloaded `application_train.csv` into the project's `data/` directory so the pipeline can find it.
-
----
-
 ## 📘 Overview
 This project uses **machine learning** techniques to predict whether a loan applicant is likely to **default** on a loan based on their demographic, financial, and socioeconomic information.  
 The analysis is based on the **Home Credit Default Risk dataset** from [Kaggle](https://www.kaggle.com/competitions/home-credit-default-risk/data).
@@ -89,6 +83,14 @@ Accurate loan default prediction models can help financial institutions and micr
 ## ⚙️ Installation & Requirements
 You can run this project using **Python 3.8+**.  
 Install the required libraries using:
+
+```bash
+conda install -c conda-forge pandas numpy matplotlib seaborn scikit-learn xgboost
+
+```
+````
+
+or
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
