@@ -6,3 +6,8 @@
 # Common Python artifacts (optional)
 __pycache__/
 *.py[cod]
+
+# Ignore model artifacts (large model files)
+/models/*
+# keep a .gitkeep if you want the empty models/ directory to remain in the repo
+!/models/.gitkeep
