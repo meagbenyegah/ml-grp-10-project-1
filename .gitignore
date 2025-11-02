@@ -1,0 +1,8 @@
+# Ignore dataset directory contents (large data files)
+/data/*
+# keep a .gitkeep if you want the empty data/ directory to remain in the repo
+!/data/.gitkeep
+
+# Common Python artifacts (optional)
+__pycache__/
+*.py[cod]
