@@ -3,6 +3,13 @@
 
 ---
 
+## 🗂️ Dataset download
+Download the dataset from the following Google Drive link and place the downloaded file(s) into the `data/` folder in this repository (the repository is configured to ignore large files in `data/`):
+
+https://drive.google.com/drive/folders/1JkAmwegoXL_kXKeITShG_hSSehfyZaqi?usp=share_link
+
+---
+
 ## 📘 Overview
 This project uses **machine learning** techniques to predict whether a loan applicant is likely to **default** on a loan based on their demographic, financial, and socioeconomic information.  
 The analysis is based on the **Home Credit Default Risk dataset** from [Kaggle](https://www.kaggle.com/competitions/home-credit-default-risk/data).
@@ -25,11 +32,6 @@ Accurate loan default prediction models can help financial institutions and micr
 ## 🧩 Project 1: Loan Default Prediction using Machine Learning
 
 ---
-
-## 🗂️ Dataset download
-Download the dataset from the following Google Drive link and place the downloaded CSV file(s) into the `data/` folder in this repository (the repository is configured to ignore large files in `data/`):
-
-https://drive.google.com/file/d/1OvJRjILizc4daesXoZr5Rx0SdKX1BUIL/view?usp=share_link
 
 Example (manual):
 1. Download the file from the link above (you may need to sign in to Google).
