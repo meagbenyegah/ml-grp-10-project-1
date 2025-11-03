@@ -85,7 +85,7 @@ You can run this project using **Python 3.8+**.
 Install the required libraries using:
 
 ```bash
-conda install -c conda-forge pandas numpy matplotlib seaborn scikit-learn xgboost
+conda install -c conda-forge pandas numpy matplotlib seaborn scikit-learn xgboost shap
 
 ```
 ````
@@ -93,6 +93,6 @@ conda install -c conda-forge pandas numpy matplotlib seaborn scikit-learn xgboos
 or
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost shap
 ```
 ````
